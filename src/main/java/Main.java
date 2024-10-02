@@ -5,6 +5,6 @@ public class Main {
 
 
         // Will this show up when I push it again
-        System.out.println("Second message in the second commit"); 
+        System.out.println("Second message in the second commit");
     }
 }
